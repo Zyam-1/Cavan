@@ -1,0 +1,5 @@
+Line 322: Class MSComctlLib.ProgressBar of control pBar was not a loaded control class.
+Line 571: Class ComctlLib.StatusBar of control StatusBar was not a loaded control class.
+Line 636: Class MSComctlLib.ImageList of control imgMisc was not a loaded control class.
+Line 729: Class ComctlLib.ImageList of control ImageIcons was not a loaded control class.
+Line 803: Class ComctlLib.ImageList of control ImageList1 was not a loaded control class.

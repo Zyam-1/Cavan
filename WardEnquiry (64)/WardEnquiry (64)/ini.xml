@@ -1,0 +1,6 @@
+<INI>
+  <Site>Cavan</Site>
+  <Server>CSSERVER</Server>
+  <Database>Cavan</Database>
+  <TransfusionDatabase>CavanTransfusion</TransfusionDatabase>
+</INI>

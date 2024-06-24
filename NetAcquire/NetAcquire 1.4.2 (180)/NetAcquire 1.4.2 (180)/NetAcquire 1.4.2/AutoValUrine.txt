@@ -1,0 +1,18 @@
+Charlie 
+
+We are trying to put into place a autovalidation of negative urines based on the following: 
+
+Bacteria <150 
+WCC < 40 
+Age >15 yrs 
+Ward - ability to exclude by ward 
+Tag Repeat - ability to tag a patient to ignore the rules. 
+
+Those that pass above would have an auto comment of "This urine has been screened using an automated urinalysis instrument and results do not meet our criteria for culture. If UTI is still suspected please resubmit a MSU and indicate on the form that this is a repeat sample and culture will be performed. 
+
+
+From this we would like to produce a list of samples that failed the above rules thus creating a culture worklist. 
+
+Thanks 
+
+Ken 
